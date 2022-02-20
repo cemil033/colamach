@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\colamachin\colamachin\bin\Debug\colamachin.exe.config
+C:\Users\User\source\repos\colamachin\colamachin\bin\Debug\colamachin.exe
+C:\Users\User\source\repos\colamachin\colamachin\bin\Debug\colamachin.pdb
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.Properties.Resources.resources
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.UserControl1.resources
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.csproj.GenerateResource.cache
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.exe
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.pdb
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.Form1.resources
+C:\Users\User\source\repos\colamachin\colamachin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\colamachin\colamachin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.csproj.CopyComplete
+C:\Users\User\source\repos\colamachin\colamachin\obj\Debug\colamachin.csproj.AssemblyReference.cache

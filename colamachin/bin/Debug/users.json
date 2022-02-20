@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "alinanlar": [
+        {
+          "name": "Coca Cola",
+          "price": 1.0
+        },
+        {
+          "name": "Pepsi",
+          "price": 1.0
+        }
+      ],
+      "yekun_mebleg": 2.0,
+      "odenmis": 5.8,
+      "qaliq": 3.8
+    },
+    {
+      "alinanlar": [
+        {
+          "name": "Snicker",
+          "price": 0.8
+        },
+        {
+          "name": "Snicker",
+          "price": 0.8
+        }
+      ],
+      "yekun_mebleg": 1.6,
+      "odenmis": 5.0,
+      "qaliq": 3.4
+    },
+    {
+      "alinanlar": [
+        {
+          "name": "Pepsi",
+          "price": 1.0
+        },
+        {
+          "name": "Snicker",
+          "price": 0.8
+        },
+        {
+          "name": "Tutku",
+          "price": 0.5
+        }
+      ],
+      "yekun_mebleg": 2.3,
+      "odenmis": 5.0,
+      "qaliq": 2.7
+    },
+    {
+      "alinanlar": [
+        {
+          "name": "Fanta",
+          "price": 1.0
+        },
+        {
+          "name": "Albeni",
+          "price": 0.5
+        },
+        {
+          "name": "Bounty",
+          "price": 0.8
+        }
+      ],
+      "yekun_mebleg": 2.3,
+      "odenmis": 5.0,
+      "qaliq": 2.7
+    },
+    {
+      "alinanlar": [
+        {
+          "name": "Coca Cola",
+          "price": 1.0
+        },
+        {
+          "name": "Coca Cola",
+          "price": 1.0
+        },
+        {
+          "name": "Coca Cola",
+          "price": 1.0
+        },
+        {
+          "name": "Coca Cola",
+          "price": 1.0
+        },
+        {
+          "name": "Coca Cola",
+          "price": 1.0
+        }
+      ],
+      "yekun_mebleg": 7.3,
+      "odenmis": 10.0,
+      "qaliq": -2.3
+    },
+    {
+      "alinanlar": [
+        {
+          "name": "Pepsi",
+          "price": 1.0
+        },
+        {
+          "name": "Fanta",
+          "price": 1.0
+        }
+      ],
+      "yekun_mebleg": 2.0,
+      "odenmis": 5.0,
+      "qaliq": 3.0
+    }
+  ]
+}
